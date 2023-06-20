@@ -6,7 +6,7 @@
 
 .search-component .search-bar-icon {
     position: relative;
-    left: 8vw;
+    left: 5vw;
     top: .9vh;
     z-index: 1;
 }
@@ -23,7 +23,7 @@
     text-indent: 7vw;
     font-size: 18px;
     justify-self: center;
-    /* position: relative;
+    position: relative;
     right: 3vw;
-    margin-top: 1vh; */
+    margin-top: 1vh;
 }
