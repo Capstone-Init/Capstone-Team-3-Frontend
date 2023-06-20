@@ -6,19 +6,24 @@
 
 .search-component .search-bar-icon {
     position: relative;
-    left: 6vw;
-    top: .7vh;
+    left: 8vw;
+    top: .9vh;
     z-index: 1;
 }
 
 .searchbar {
     border: 2px solid var(--init-mint);
     width: 85vw;
+    /* added */
+    max-width: 320px;
+
     height: 4vh;
     border-radius: 20px;
-    text-indent: 10vw;
+    /* text-indent: 10vw; */
+    text-indent: 7vw;
     font-size: 18px;
-    position: relative;
+    justify-self: center;
+    /* position: relative;
     right: 3vw;
-    margin-top: 1vh;
+    margin-top: 1vh; */
 }

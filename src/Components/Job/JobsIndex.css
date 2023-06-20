@@ -7,9 +7,16 @@
   overflow-y: scroll;
   overflow-x:hidden;
   height: 84vh;
+  width: 100%;
+
+  width: 400px;
 }
 
 .jobsIndex a {
-  width: 90%;
+  /* width: 90%; */
   color: var(--init-charcoal);
+
+  width: 350px;
+  justify-self: left;
+  margin-left: 3vw;
 }
